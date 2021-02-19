@@ -49,12 +49,11 @@ This is an example of how to list things you need to use the software and how to
 * import libraries
   ```sh
   import numpy as np 
-import pandas as pd 
-from sklearn import preprocessing
-import matplotlib.pyplot as plt 
-import seaborn as sns
+  import pandas as pd 
+  from sklearn import preprocessing
+  import matplotlib.pyplot as plt 
+  import seaborn as sns
   ```
-
 ### Installation
 
 1. Clone the repo
@@ -70,7 +69,6 @@ import seaborn as sns
    jupyter notebook  notebook.ipynb
    ```
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -82,15 +80,11 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
 ## License
 
 [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html#:~:text=%20GNU%20General%20Public%20License%20%201%20GNU,%20...%20To%20%E2%80%9Cmodify%E2%80%9D%20a%20work...%20More%20)
 
 
-
-<!-- CREDITS -->
 ## Contact
 
 Gabriel Perez
